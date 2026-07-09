@@ -14,7 +14,7 @@ product discovery for skincare buyers.
 - Figma
 
 ## Design Preview
-[View Full Design on Figma](https://www.figma.com/design/thwglyhmqqOa5SjuvPP2Nk/210180037_Rehan-Zubaidari_A5_Mobile1?node-id=0-1&t=ckQmXYZoay0vr1Uv-1)
+[View Full Design on Figma](https://www.figma.com/design/cvQGbORoXNWiStuv1z5aqD/210180037_Rehan-Zubaidari_A5_Mobile1?node-id=0-1&t=AhY0ALjTHVP68HJe-1)
 
 ## Screenshots
 ![Screen 1](login-page.png)
